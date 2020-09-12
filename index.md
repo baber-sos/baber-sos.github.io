@@ -8,7 +8,7 @@ layout: default
   <img class="prof_pic" src="profile_pic.jpg">
 </p>
 <div align="center" class="intro">
-Hi, I am Baber. I am pursuing my PhD at Rutgers University under the guidance of (awesome) Dr. Matthew Stone. My reasearch interests lie in models of interactive communication which try to model human reasoning using logical and learned representations of meaning. I also focus on adapting machine learning models for applicatons like image captioning, semantic grounding in dialogue, goal-oriented and referential dialogue tasks to respect human centered objectives.
+Hi, I am Baber. I am pursuing my PhD at Rutgers University under the supervision of Dr. Matthew Stone. I love to code, think about new ideas, play games, and travel in my free time. My general research interests lie in the area of Natural Language Processing.
 </div>
 </div>
 
