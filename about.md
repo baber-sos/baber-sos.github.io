@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### My Story
 ***
-I consider myself to be a very lucky person. My parents got divorced at the time of my birth. My mother was a housewife and did not have an income channel, so my grandfather took us in and brought me up like his own son. Even though we belonged to a lower-middle class family my grandfather and uncles their utmost best to raise me and provide me with all the facilities they could afford. Its thanks to my mother's and all their efforts that I became the first person in my family to complete an undergraduate degree, from one of the best institutes of Pakistan - *LUMS*, that too on a scholarship.  
+I consider myself to be a lucky person. My parents got divorced at the time of my birth. My mother was a housewife and did not have an income channel, so my grandfather took us in and brought me up like his own son. Even though we belonged to a lower-middle class family my grandfather and uncles did their utmost best to raise me and provide me with all the facilities they could afford. Its thanks to my mother's and all their efforts that I became the first person in my family to complete an undergraduate degree - from one of the best institutes of Pakistan (*LUMS*), that too on a fully funded scholarship.  
 
 Since my days of playing games at arcade center during my childhood I wanted to be someone who would contribute to the progress of technological innovation. To fulfill this dream of mine, I came to USA to pursue my Ph.D. in Computer Science and be at the helm of technological innovation.  
 
