@@ -34,13 +34,13 @@ permalink: /cv
 
 ### Projects
 ***
+* **Video Captioning with Multi-Faceted Attention**: Re-implemented the *Video Captioning with Multi-Faceted Attention* paper to learn about video caption models and attention in neural modelling.
+* **Learning Text Representations in Latent Space**: Re-implemented the *Generating Sentences from a Continuous Space* paper to learn more about variational auto-encoders and language modelling.
+* **Adversarial Maze Generation Using Genetic Algorithms**: Using genetic algorithms to generate difficult mazes for path finding algorithms like A\* to solve in Python.
+* **Lost Object Tracking Using Bayesian Networks**: An application of Bayesian networks to find a lost object in a given uneven terrain in Python3.
 * **MegaVM**: Modifying *Linux* kernel to design a distributed memory framework for virtual machines by hacking swap mechanism and using low-level Verbs API for communication between nodes using RDMA over Infiniband.
 * **PseudoBot**: A chatbot and personal assistant web application to assist in setting reminders and sending small emails, implemented in Python using Chatterbot API for dialogue and django for backend.
 * **Urdu Alphabet Classification**: A neural based model to classify handwritten urdu alphabets using CNNs in Matlab.
-* **Lost Object Tracking Using Bayesian Networks**: An application of Bayesian networks to find a lost object in a given uneven terrain in Python3.
-* **Adversarial Maze Generation Using Genetic Algorithms**: Using genetic algorithms to generate difficult mazes for path finding algorithms like A\* to solve in Python.
-* **Learning Text Representations in Latent Space**: Re-implemented the *Generating Sentences from a Continuous Space* paper to learn more variational auto-encoders and language modelling.
-* **Video Captioning with Multi-Faceted Attention**: Re-implemented the *Video Captioning with Multi-Faceted Attention* paper to learn about video caption models and attention in neural modelling.
 * **Static Map For Reducing Runtime Workload**: Implemented a static map in C\+\+\=14 which loaded the constant key value data at compile time hence reducing the the work the program had to do at runtime.
 * **SmarTOR**: Participated in the research project to improve load balancing algorithms for TOR relays as part of summer internship in Networks and Systems group at LUMS.
 * **Binary Re-Arrangement to Optimize Performance**: Conducted research in re-arrangement of compiled binaries to reduce page-faults as an attempt to optmize performance by reducing page faults for loading executable code.
