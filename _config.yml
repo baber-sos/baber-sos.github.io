@@ -21,9 +21,10 @@ title: Baber Khalid
 email: baber.khalid@rutgers.edu
 author.name: Baber Khalid
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, I am Baber. I am pursuing my PhD at Rutgers University under the supervision of Dr. Matthew Stone. My general research interests lie in the area of Natural Language Processing with key focus on how to build interactive systems which exhibit human-like behaviour. To read some of my recent work please checkout my publications. Other than research some of my hobbies include solving programming problems, thinking about and experimentig with new ideas, playing games, and travelling with friends.
+  #Write an awesome description for your new site here. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

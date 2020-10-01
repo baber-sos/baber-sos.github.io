@@ -34,6 +34,9 @@ permalink: /cv
 
 <h3 id="projects">Projects</h3>
 ***
+* **Evaluating Image Caption Generation Using Coherence Aware Methods**: Designing a coherence aware evaluation metric to bridge the gap between automated caption quality estimates and human judgements for image caption models.
+* **Adapting RL Methods to learn Fair Communication Strategies**: Adapting RL methods to optimize for maximum Nash welfare rather than average reward to learn fair communication policies across diverse users.
+* **Building Coherence Based Dialogue Models**: Building task-oriented conversational agents which use coherence based dialogue state representations with RL to learn effective communication strategies.
 * **Video Captioning with Multi-Faceted Attention**: Re-implemented the *Video Captioning with Multi-Faceted Attention* paper to learn about video caption models and attention in neural modelling.
 * **Learning Text Representations in Latent Space**: Re-implemented the *Generating Sentences from a Continuous Space* paper to learn more about variational auto-encoders and language modelling.
 * **Adversarial Maze Generation Using Genetic Algorithms**: Using genetic algorithms to generate difficult mazes for path finding algorithms like A\* to solve in Python.
