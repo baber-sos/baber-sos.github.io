@@ -32,7 +32,7 @@ permalink: /cv
 * 2017 Spring, Teaching Assistant for *Introdcution to Artificial Intelligence*
 * 2016 Fall, Teaching Assistant for *Introduction to OOP*
 
-### Projects
+<h3 id="projects">Projects</h3>
 ***
 * **Video Captioning with Multi-Faceted Attention**: Re-implemented the *Video Captioning with Multi-Faceted Attention* paper to learn about video caption models and attention in neural modelling.
 * **Learning Text Representations in Latent Space**: Re-implemented the *Generating Sentences from a Continuous Space* paper to learn more about variational auto-encoders and language modelling.
