@@ -37,8 +37,8 @@ permalink: /cv
 * **Evaluating Image Caption Generation Using Coherence Aware Methods**: Designing a coherence aware evaluation metric to bridge the gap between automated caption quality estimates and human judgements for image caption models.
 * **Adapting RL Methods to learn Fair Communication Strategies**: Adapting RL methods to optimize for maximum Nash welfare rather than average reward to learn fair communication policies across diverse users.
 * **Building Coherence Based Dialogue Models**: Building task-oriented conversational agents which use coherence based dialogue state representations with RL to learn effective communication strategies.
-* **Video Captioning with Multi-Faceted Attention**: Re-implemented the *Video Captioning with Multi-Faceted Attention* paper to learn about video caption models and attention in neural modelling.
-* **Learning Text Representations in Latent Space**: Re-implemented the *Generating Sentences from a Continuous Space* paper to learn more about variational auto-encoders and language modelling.
+* **Video Captioning with Multi-Faceted Attention**: Re-implemented the *Video Captioning with Multi-Faceted Attention* paper to learn about video caption models and attention methods used in neural network architectures.
+* **Learning Text Representations in Latent Space**: Re-implemented the *Generating Sentences from a Continuous Space* paper by Google research to study the applications and challenges of learning text representations using Variational Auto-Encoders.
 * **Adversarial Maze Generation Using Genetic Algorithms**: Using genetic algorithms to generate difficult mazes for path finding algorithms like A\* to solve in Python.
 * **Lost Object Tracking Using Bayesian Networks**: An application of Bayesian networks to find a lost object in a given uneven terrain in Python3.
 * **MegaVM**: Modifying *Linux* kernel to design a distributed memory framework for virtual machines by hacking swap mechanism and using low-level Verbs API for communication between nodes using RDMA over Infiniband.
