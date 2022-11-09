@@ -32,7 +32,7 @@ github_username:  baber-sos
 
 # Build settings
 markdown: kramdown
-theme: portfolyou-jekyll-theme
+#theme: portfolyou-jekyll-theme
 plugins:
   - jekyll-feed
 
