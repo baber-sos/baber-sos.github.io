@@ -3,6 +3,12 @@ layout: page
 title: Publications
 permalink: /publications
 ---
+### 2022
+***
+* **An Integrated Architecture for Common Ground in Collaboration**  
+C. Geib, D. George, B. Khalid, R. Magnotti, M. Stone, *In Proceedings of ACS 2022* [[PDF]](/published/lemming2022.pdf)
+
+
 ### 2020
 ***
 * **Combining Cognitive Modeling and Reinforcement Learning for Clarification in Dialogue**  
